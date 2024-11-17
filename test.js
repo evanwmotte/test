@@ -5,3 +5,5 @@ const doSomething = () => {
 doSomething()
 
 const number = 1
+
+const string = "abc"
