@@ -3,3 +3,5 @@ const doSomething = () => {
 }
 
 doSomething()
+
+const number = 1
